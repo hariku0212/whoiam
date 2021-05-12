@@ -12,7 +12,7 @@ header{
 }
 
 .container{
-  width:700px;
+  width:500px;
   margin-right:auto;
   margin-left:auto;
   display:flex;
@@ -64,7 +64,7 @@ header{
 }
 
 .favorite{
-  width:700px;
+  width:500px;
   text-align:center;
   margin-right:auto;
   margin-left:auto;
