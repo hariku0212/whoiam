@@ -12,9 +12,9 @@ header{
 }
 
 .container{
-  width:500px;
-  margin-right:auto;
-  margin-left:auto;
+  width:700px;
+  margin-right:150px;
+  margin-left:150px;
   display:flex;
   align-items:center;
 }
@@ -54,9 +54,8 @@ header{
 }
 
 .info ul li{
-  margin-right: 6px;
-  margin-left:auto;
-  margin-right:auto;
+  margin-right: 20px;
+  margin-left: 20px;
 }
 
 .where{
@@ -64,10 +63,10 @@ header{
 }
 
 .favorite{
-  width:500px;
+  width:700px;
   text-align:center;
-  margin-right:auto;
-  margin-left:auto;
+  margin-right:100px;
+  margin-left:100px;
 }
 
 .favorite>h1{
